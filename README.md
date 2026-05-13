@@ -144,4 +144,7 @@ weneeds-analytics/
 
 ---
 
+⚠️ Les données brutes de visites ne sont pas incluses dans ce repo pour des raisons de confidentialité (RGPD).
+Pour tester le pipeline, remplace les fichiers dans data/raw/ par vos propres exports.
+
 _Projet réalisé dans le cadre d'un stage analytics chez Weneeds._
