@@ -216,3 +216,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ─── Projet Weneeds Analytics ────────────────────────────────────────────────
+# Dépendances Node / build NestJS
+node_modules/
+dist/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Données nettoyées (régénérables via le pipeline)
+data/clean/
+**/data/clean/
+
+# Fichiers Power BI (binaires, hors-versionning)
+*.pbix
+
+# Variables d'environnement
+.env
+
+# État local de Claude Code (par poste de travail)
+.claude/
+
